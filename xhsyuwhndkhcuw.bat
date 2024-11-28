@@ -1,4 +1,4 @@
 @echo off
-cd C:\Windows\System32
+cd C:\Windows\Temp
 xhsyuwhndkhcuw.exe
 pause
